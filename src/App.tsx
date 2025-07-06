@@ -1,5 +1,5 @@
 import React from 'react';
-import Transcriber from './components/Transcriber';
+import Transcriber from './Transcriber';
 
 function App() {
   return (
